@@ -1,5 +1,6 @@
 This file also has 
 two lines of text in it
+Some fixes to be added in file B
 This is an experimental piece
 of code, for development only
 We do not know if it will work
