@@ -3,3 +3,4 @@ This is another line
 Third line gets added here
 Fixing a bug in this file
 Fixing another bug here
+Added a feature B for production
