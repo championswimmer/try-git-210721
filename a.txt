@@ -1,3 +1,5 @@
 This is a line of text 
 This is another line
 Third line gets added here
+Fixing a bug in this file
+Fixing another bug here
